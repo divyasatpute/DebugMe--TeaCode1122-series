@@ -1,4 +1,4 @@
-# DebugMe--TeaCode1122-series
+
 # 🐞 TeaCode1122 – Debug Me Series
 
 Welcome to the **TeaCode1122 Debug Me!** series — a hands-on, real-world DevOps challenge initiative by the **TeaCode1122 Community** 👑
